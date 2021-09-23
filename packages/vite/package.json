@@ -118,7 +118,7 @@
     "tsconfck": "^1.0.0",
     "tslib": "^2.3.1",
     "types": "link:./types",
-    "ws": "^7.5.5"
+    "ws": "^8.2.2"
   },
   "peerDependencies": {
     "less": "*",
